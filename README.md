@@ -122,6 +122,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
 - [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
+- [HackerRank](https://www.hackerrank.com/):  Place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains,  as well as to practice different programming paradigms like functional programming.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -601,6 +602,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
+- [Machine Learning with python](https://www.tutorialspoint.com/machine_learning_with_python/index.htm): Learn everything about Machine Learning Algorithms with python.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
